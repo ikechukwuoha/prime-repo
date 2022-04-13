@@ -1,0 +1,3 @@
+# Prime Social App
+
+The Prime social App is a Python-Django app i am currently working on in my web-dev Journey...
